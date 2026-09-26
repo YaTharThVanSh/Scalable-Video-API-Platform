@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/arushsrivastava/Backend-Project.git"
   },
-  "author": "Arush Srivastava",
+  "author": "Yatharth Vansh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arushsrivastava/Backend-Project/issues"
@@ -19,15 +19,15 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "cloudinary": "^2.7.0",
+    "cloudinary": "^2.10.0",
     "cookie-parser": "^1.4.7",
-    "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.16.0",
-    "mongoose-aggregate-paginate-v2": "^1.1.4",
-    "multer": "^2.0.1"
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.24.2",
+    "mongoose-aggregate-paginate-v2": "^1.1.5",
+    "multer": "^2.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10",
